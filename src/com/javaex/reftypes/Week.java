@@ -1,5 +1,11 @@
 package com.javaex.reftypes;
 
-public class Week {
-
+public enum Week {
+	SUNDAY,
+	MONDAY,
+	TUESDAY,
+	WEDNESDAY,
+	THURSDAY,
+	FRIDAY,
+	SATURDAY
 }
